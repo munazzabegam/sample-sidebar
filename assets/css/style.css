@@ -34,6 +34,12 @@
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     transition: background-color 0.4s ease, padding-left 0.3s ease;
   }
+
+  #main-navbar .navbar-brand {
+    font-size: 24px;
+    color: var(--heading-color);
+    transition: color 0.4s;
+  }
   
   /* Sidebar */
   .sidebar {
